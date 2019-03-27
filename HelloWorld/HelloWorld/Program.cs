@@ -17,6 +17,7 @@ namespace HelloWorld
             double amount;
 
             amount = 2.5;
+            /*selenium masterclass */
         }
     }
 }
