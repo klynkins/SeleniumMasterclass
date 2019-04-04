@@ -49,7 +49,7 @@ namespace HelloWorld
             Console.WriteLine(outputString);*/
 
             string file = "C:\\my docs\\homedir\\files"; //use@"C//
-            Console.WriteLine(file)
+            Console.WriteLine(file);
         }
     }
 }
